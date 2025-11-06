@@ -1,10 +1,10 @@
-## Hi, I am Markus!
+# Hi, I am Markus!
 
 Trained Musical Theatre actor looking to broaden my horizons and explore technological frontiers.
 
 ---
 
-### Technical Skills
+## Technical Skills
 
 - **Languages:** Java, C#, JavaScript/TypeScript, HTML/CSS
 <img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css"/>
@@ -20,7 +20,7 @@ Trained Musical Theatre actor looking to broaden my horizons and explore technol
 
 ---
 
-### About me outside of coding
+## About me outside of coding
 
 * 👀 My interests include books, co-operative roleplay, music, visual arts and trying new foods.
 * 🌱 Currently studing Computer Science.
