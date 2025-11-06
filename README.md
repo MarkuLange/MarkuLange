@@ -2,7 +2,7 @@
 
 Trained Musical Theatre actor looking to broaden my horizons and explore technological frontiers.
 
----
+<br>
 
 ## Technical Skills
 
@@ -18,7 +18,7 @@ Trained Musical Theatre actor looking to broaden my horizons and explore technol
 - **Tools:** IntelliJ IDEA, VSCode
 <img src="https://skillicons.dev/icons?i=idea,vscode"/>
 
----
+<br>
 
 ## About me outside of coding
 
