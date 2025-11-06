@@ -4,12 +4,19 @@ Trained Musical Theatre actor looking to broaden my horizons and explore technol
 
 ---
 
-### Skills
+### Technical Skills
 
-- **Languages & Frameworks:** Java, C#, JavaScript/TypeScript, HTML/CSS
+- **Languages:** Java, C#, JavaScript/TypeScript, HTML/CSS
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css"/>
+
 - **Frameworks:** React, .Net, Bootstrap, JQuery
+<img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,jquery"/>
+
 - **Data:** SQL, Docker, Git/GitHub
+<img src="https://skillicons.dev/icons?i=sqlite,docker,git,github"/>
+
 - **Tools:** IntelliJ IDEA, VSCode
+<img src="https://skillicons.dev/icons?i=idea,vscode"/>
 
 ---
 
