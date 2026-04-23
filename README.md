@@ -6,24 +6,45 @@ Trained Musical Theatre actor looking to broaden my horizons and explore technol
 
 ## Technical Skills
 
-- **Languages:** Java, C#, Python, JavaScript/TypeScript, HTML/CSS
-<img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,html,css"/>
-
-- **Frameworks:** React, .Net, Bootstrap, JQuery
-<img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,jquery"/>
-
-- **Data:** SQL, Docker, Git/GitHub, Microsoft Azure
-<img src="https://skillicons.dev/icons?i=sqlite,docker,git,github,azure"/>
-
-- **Tools:** IntelliJ IDEA, VSCode, Visual Studio
-<img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio"/>
-
-<br>
+<table>
+  <tr>
+    <td valign="top"><b>Languages</b></td>
+    <td align="center">
+      Java · C# · Python · JavaScript/TypeScript · HTML/CSS
+      <p>────────────────────────</p>
+      <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,html,css"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frameworks</b></td>
+    <td align="center">
+      React · .NET · Bootstrap · jQuery
+      <p>────────────────────────</p>
+      <img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,jquery"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Data</b></td>
+    <td align="center">
+      SQL · Docker · Git/GitHub · Microsoft Azure
+      <p align="center">────────────────────────</p>
+      <img src="https://skillicons.dev/icons?i=sqlite,docker,git,github,azure"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Tools</b></td>
+    <td align="center">
+      IntelliJ IDEA · VS Code · Visual Studio
+      <p>───────────────────────</p>
+      <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio"/>
+    </td>
+  </tr>
+</table>
 
 ## About me outside of coding
 
 * 👀 My interests include books, co-operative roleplay, music, visual arts and trying new foods.
-* 🌱 Currently studing Computer Science.
+* 🌱 Currently studying Computer Science.
 * 📫 How to reach me: markusml@hotmail.com
 
 <!---
